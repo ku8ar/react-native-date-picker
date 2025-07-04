@@ -1,7 +1,8 @@
 #import <React/RCTLog.h>
 #import <React/RCTUIManager.h>
-#import <React/RCTViewManager.h>
 #import <React/RCTUtils.h>
+#import <React/RCTViewManager.h>
+
 #import "RNDatePickerManager.h"
 #import "RCTConvert.h"
 #import "DatePicker.h"
